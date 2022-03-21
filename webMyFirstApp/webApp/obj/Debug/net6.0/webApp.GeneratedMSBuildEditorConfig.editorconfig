@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mahmo\webApp\webMyFirstApp\webApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mahmo/webApp/webMyFirstApp/webApp/Views/FoodOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZE9yZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mahmo/webApp/webMyFirstApp/webApp/Views/FoodOrders/Toppings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZE9yZGVyc1xUb3BwaW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mahmo/webApp/webMyFirstApp/webApp/Views/FoodOrders/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZE9yZGVyc1xVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mahmo/webApp/webMyFirstApp/webApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
